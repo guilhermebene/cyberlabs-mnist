@@ -1,0 +1,6 @@
+jupyterlab
+matplotlib==3.4.3
+notebook==6.4.4
+numpy==1.19.5
+torch
+torchvision
